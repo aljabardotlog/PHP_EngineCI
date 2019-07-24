@@ -15,7 +15,7 @@ How to make new modul with menu
 3.	Make the codeigniter class
 4.	Look at the dashboard and login modules as example
 
-•	Don't forget to use user level menu
-•	You can also make dinamic menu and submenu
+- Don't forget to use user level menu
+- You can also make dinamic menu and submenu
 
 Code Well as usual
