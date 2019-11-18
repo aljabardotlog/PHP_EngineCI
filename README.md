@@ -1,6 +1,6 @@
 # PHP_EngineCI
 
-This is my master engine in Codeigniter. We can make new modules using HMVC in easly way. There are 2 default modul that we must use which are dashboard and login.
+This is one of the master engine in Codeigniter. We can make new modules using HMVC in easly way. There are 2 default moduls in this engine Dashboard and Login
 
 How to use this engine :
 
