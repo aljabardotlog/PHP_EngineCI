@@ -14,6 +14,7 @@ How to make new modul with menu
 2.	Complete all the field and fokus on Class name which will be the name of your class in codeigniter
 3.	Make the codeigniter class
 4.	Look at the dashboard and login modules as example
+5.	user and password default admin@admin.com using md5
 
 - Don't forget to use user level menu
 - You can also make dinamic menu and submenu
